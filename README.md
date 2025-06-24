@@ -6,7 +6,6 @@ A data storytelling project on house music using Discogs data and Tableau
 This project explores the evolution of house music releases using data from Discogs. It features:
 - Cleaned XML data parsed via Python
 - Interactive Tableau dashboard with insights
-- Word cloud analysis of record titles
 - Label activity over time
 
 ## Dashboard Preview
